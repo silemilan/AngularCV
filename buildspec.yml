@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    S3_BUCKET: "cv.schreck.berlin"
+    S3_BUCKET: "s3bucket-angular-test/dev-test"
 phases:
   install:
     runtime-versions:
